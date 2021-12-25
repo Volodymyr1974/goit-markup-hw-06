@@ -845,13 +845,12 @@
      background-origin: border-box;
      border: 2px solid var(--accent-color);
  }
- 
- .checkbox:focus+.checkbox-icon {
+ /* .checkbox:focus+.checkbox-icon {
      background-image: url(../images/iconcheck.svg);
      background-size: contain;
      background-origin: border-box;
      border: 2px solid var(--accent-color);
- }
+ } */
  
  .agreement {
      margin-left: 7px;
